@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ViewStub example</string>
+    <string name="skip">Skip</string>
+    <string name="log_in">Log in</string>
+    <string name="enter_credentials">Enter credentials</string>
+    <string name="login_skipped">Skip pressed</string>
+    <string name="credentials_entered">%1$s/%2$s entered</string>
+    <string name="login_">Login:</string>
+    <string name="password_">Password:</string>
+
+</resources>
